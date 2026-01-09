@@ -21,7 +21,5 @@ Today I took my first steps into the world of **Databricks** with **Codebasics**
 
 ---
  
-
-## 📸 Screenshots
  
 
