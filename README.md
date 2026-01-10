@@ -10,7 +10,7 @@ Today I took my first steps into the world of **Databricks** with **Codebasics**
 - Signed up for **Databricks Community Edition**
 - Explored **Workspace, Compute, and Data Explorer**
 - Created my very first **notebook**
-- Ran my first few **PySpark commands** 🎉
+- Ran my first few **PySpark commands** 
 
 ---
 
