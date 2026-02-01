@@ -1,7 +1,7 @@
 # Databricks-AI-Challenge
 This documents my progress and projects from the 14-Day Databricks AI Challenge organized by Codebasics and Indian Data Club. It serves as both a learning log and a portfolio of hands-on work with Databricks, PySpark, and big data concepts.
 
-# Day 1 (09/01/26) of the 14-Day Databricks Challenge
+# Day 1 (09/01/26) of the 14-Day Databricks AI Challenge
 Today I took my first steps into the world of **Databricks** with **Codebasics** and the **Indian Data Club**, and it already feels like a whole new way of looking at data! 
 
 ---
