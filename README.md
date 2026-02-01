@@ -93,7 +93,7 @@ By the end of Day 5, I:
 - Improved performance using OPTIMIZE and ZORDER
 - Cleaned up unused files with VACUUM
 
-# 🚀 DAY 6 (14/01/26) – Medallion Architecture  
+# DAY 6 (14/01/26) – Medallion Architecture  
 Day 6 focused on implementing the **Medallion Architecture** — a best-practice design pattern for building reliable and scalable data pipelines.
 
 ---
@@ -232,7 +232,7 @@ By the end of Day 12, I:
 - Compared multiple runs using the MLflow UI
 This step brings structure and reproducibility to ML experimentation.
 
-# 🚀 DAY 13 (21/01/26) – Model Comparison & Feature Engineering
+# DAY 13 (21/01/26) – Model Comparison & Feature Engineering
 Day 13 focused on training multiple machine learning models, performing feature engineering, and using Spark ML pipelines for scalable workflows.
 
 ---
